@@ -1,0 +1,5 @@
+* `prototype`: los prototypos son mecanismos por los cuales los objetos pueden compartir metodos o 
+propiedades con sus objetos hijos, para poder asi no repetirse en el codigo iterado , y permitiendo una mejor
+escalabilidad y minimizando la posibilidad de errores de tipado
+* _Constructors_ (de Clases) : es un metodo de las clases , 
+que permite definir que propiedades y metodos tendra un objeto.

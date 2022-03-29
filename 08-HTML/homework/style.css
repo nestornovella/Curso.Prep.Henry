@@ -1,0 +1,32 @@
+body{
+   background: url("https://fondosmil.com/fondo/27098.jpg");
+   background-size: cover;
+   background-repeat: no-repeat;
+}
+#conteiner{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+}
+body h1{
+   color: blue;
+}
+
+#thirdDiv img{
+    width: 400px;
+
+}
+
+#thirdDiv{
+    max-height: 400px;
+    max-width: 500px;
+    background-color: rgb(206, 203, 203);
+    border: solid 4px red;
+}
+#spanID {
+    font-size: 18px;
+    margin: 50px;
+    padding: 50px;
+}

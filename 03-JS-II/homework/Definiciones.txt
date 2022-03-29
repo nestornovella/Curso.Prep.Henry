@@ -1,0 +1,16 @@
+
+* `for` : el ciclo for se utiliza para recorrer un arreglo o un conjunto de elementos, 
+este se construye con un contador var o let x = 0 seguido de una condicion que hasta no cumplirce no deja de recorrer los elementos
+ , y finalmente se incrementa el valor del contador en 1 "x++"
+de este se puede obtener el largo del elemento, y el elemento  
+
+
+* `&&`, `||`, `!` && este simbolo se utiliza para indicar que ademas debe complirse otra condicion para ser true,
+
+
+|| se utiliza para indicar que se puede cumplir una condicion o otra para ser true
+
+
+! y finalmente este simbolo indica que la condicion no se debe cumplir para ser true
+
+true es que se cumple la condicion, false que no se cumple  9 != 10  retorna true      10 != 10 retorna false  

@@ -1,0 +1,36 @@
+
+	* Variables: las variables se definen bajo la palabra reservada --var-- se construye de la siguiente 
+	manera var nombre = el elemento que se desea almacenar en la memoria. ademas var tiene un scoop o alcance 
+	mas global a diferencia de let que su alcance es mas limitado, y se diferencia de const porque
+	el contenido de var puede ser modificado , de ahi su nombre variable
+	
+	es una buena costumbre asignar var a variables y const a constantes (siendo esta ultimas incapas de ser modificada)  
+	
+	* Strings se llama string a una cadena o linea de caracteres , que se delimita entre " " un ejemplo seria 
+	"este es un ejemplo" los strings se pueden concatenar para crear strings mas largos ejemplo: 
+	const nombre = "nestor"; 
+	const concatenar = "hola mi nombre es" + " " + nombre;
+	si se hace un console.log(concatenar); --> este imprimiria en consola "hola mi nombre es nestor" mi estring crecio.
+
+	* Funciones (argumentos, `return`)
+	las funciones son bloques de codigos que se pueden reutilizar estas por lo general reciben argumentos pero 
+	no siempre es asi, siempre retornan algo, ya sea un valor o realizan una accion 
+	al final la funcion , si se espera que retorne un valor esta debe indicar return seguido del elemento que 
+	debe retornar
+	de lo contrario esta no devolvera un valor
+	el return devuelve un valor y ademas finaliza la ejecucion de la funcion, asi que cabe destacar que todo el codigo 
+	escrito por debajo del return no sera interpretado por js
+	
+	* Declaraciones `if` if es un condicional basicamente esta indica una condicion y 
+	un bloque de codigo que se executara solo si dicha condicion se cumple
+	el esquema es el siguiente
+	
+	if (aqui se da la condicion){ y aqui se escribe el codigo que se ejecutara dada la condicion } 
+	un ejemplo sera :
+	var numerico = 50 + 100
+	if (numerico == 150){ numerico += 100 } el valor obtenido deberia ser 250 y ahora numerico deberia valer 250
+	
+	* Valores booleanos (`true`, `false`) los valores booleanos , son aquellos que debuelven true o false , que es verdadero o falso
+	esto es muy usado para poder ejecutar bloques de codigos que puedan trabajar en funcion de estos valores
+	
+	

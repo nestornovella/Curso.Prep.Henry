@@ -1,0 +1,10 @@
+* Arrays : un array es un objeto, 
+que puede guardar una gran variedad de datos como si fuera una lista 
+, (num, strings, functions, booleanos, arrays, json y mas)
+ademas tiene como atributo que todo el contenido del array se encuentra indexado, lo que permite acceder a el
+
+los arrays se´pueden recorrer de varias maneras , con los ciclos for y while, con .forEach(), .map(),
+ cada uno de ellos permiten interactuar 
+con el contenido del array con diferentes propiedades  
+
+un array se itera de la siguiente fora, const o var o let nombreDelArray = [] los brakets indican que es un array

@@ -1,0 +1,2 @@
+* Funciones Callback se llama funcion Callback a las funciones que se pasan como 
+parametro para operar en otras funciones. 

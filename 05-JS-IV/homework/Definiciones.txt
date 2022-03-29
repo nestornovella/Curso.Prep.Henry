@@ -1,0 +1,18 @@
+
+	* Objetos los objetos son tipos de datos a los que se pueden acceder mediante el nombre de sus propiedades , 
+	estos se pueden modificar , crear nuevas propiedades permitiendo que todo esto se pueda realizar de una forma
+	mas sencilla java script es un lenguaje orientado a objetos, todo en js son objetos o representaciones de ellos
+	* Propiedades las propiedades son elementos dentro de un objeto a los que se puede acceder mediante su nombre
+	(objeto.propiedad  o objeto["propiedad"])
+	* Métodos los metodos , son funciones que reciden dentro de un objeto, se accede a las mismas de igual 
+	forma que a una propiedad seguido de ()
+
+	* Bucle `for…in`el bucle for in recorre un objeto y accede a sus propiedades podiendo 
+	devolver las mismas para ser usadas en funcion de algo o solo para iterarlas
+	* Notación de puntos vs notación de corchetes las notaciones son literales y los brakets pueden recibir
+	 argumentos para acceder al objeto ejemplo: 
+	
+	const argumento = "propiedad"
+	
+	objeto[propiedad] === objeto.propiedad pero esta ultima accede al nombre de la propiedad y no a la constante
+	con el argumento 
